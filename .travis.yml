@@ -31,5 +31,5 @@ deploy:
   file: $TRAVIS_BUILD_DIR/build.zip
   skip_cleanup: true
   on:
-    repo: icctv/android-ndk-ffmpeg
+    repo: icctv/ffmpeg-android
     tags: true
