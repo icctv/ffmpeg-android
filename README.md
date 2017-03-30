@@ -5,6 +5,8 @@ This is a fork of [Hitesh Sondhi's FFmpeg-android](https://github.com/WritingMin
 
 There are [automated builds on Travis CI](https://travis-ci.org/icctv/ffmpeg-android/builds) for armeabi-v7a, armeabi-v7a-neon and x86 CPU architectures.
 
+We use this software in production on Android 4.0.1 Ice Cream Sandwich, API Level 9 and above.
+
 # Pre-built binaries
 
 [Download from GitHub Releases](https://github.com/icctv/ffmpeg-android/releases)
